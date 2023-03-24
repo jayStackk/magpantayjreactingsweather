@@ -1,3 +1,29 @@
+
+
+Peer reviewed by [ N.Harrison Wilkins ]
+// The project was well-designed and pretty simple. All the data shows up, and it is pretty much responsive. Overall did a good job!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import Temp from "./components/Tempweather";
+// was going to use Material UI but didnt have time, MY API got blocked and had to free up time for that
+// Bootstrapped! CSS'd 
+// Peer reviewed by [ N.Harrison Wilkins ]
+// The project was well-designed and pretty simple. All the data shows up, and it is pretty much responsive. Overall did a good job!
+// If it doesnt work, It's the API, API might be blocked. Been having issues. 
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Temp/>
+    </>
   );
 }
 
